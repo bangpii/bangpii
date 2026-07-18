@@ -17,7 +17,7 @@
   <a href="mailto:baihaqiearrafi6@gmail.com">
     <img src="https://img.shields.io/badge/Email-baihaqiearrafi6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://instagram.com/bangpiii">
+  <a href="https://www.instagram.com/bangpiiii/">
     <img src="https://img.shields.io/badge/Instagram-%40bangpiii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/bangpii">
