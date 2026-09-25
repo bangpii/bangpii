@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="1080" viewBox="0 0 720 1080" role="img" aria-labelledby="title description">
-<title id="title">Baihaqie Ar Rafi - Full Stack Developer &amp; Network Engineer</title>
+<title id="title">Baihaqie Ar Rafi - Full Stack Web Developer</title>
 <desc id="description">An animated profile console with an ASCII portrait, professional focus, featured projects, and public links.</desc>
 <defs>
   <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8FBFF"/><stop offset="1" stop-color="#F5F3FF"/></linearGradient>
@@ -51,7 +51,7 @@
 <rect x="48" y="94" width="624" height="350" rx="14" fill="#FFFFFF" fill-opacity="0.38" stroke="url(#border)" stroke-opacity="0.42"/>
 <rect x="48" y="470" width="624" height="526" rx="14" fill="#FFFFFF" fill-opacity="0.42" stroke="url(#border)" stroke-opacity="0.42"/>
 <text x="66" y="116" class="panel-title">VISUAL.MAP / PORTRAIT.SIGNAL</text>
-<text x="66" y="492" class="panel-title">SYSTEM.INFO / FULLSTACK.NETWORK</text>
+<text x="66" y="492" class="panel-title">SYSTEM.INFO / FULLSTACK.WEB</text>
 <g clip-path="url(#portrait-clip)" aria-hidden="true">
   <rect x="58" y="122" width="604" height="312" fill="url(#portrait-grid)"/>
   <ellipse cx="360.0" cy="256.2" rx="267.5" ry="104.5" fill="url(#portrait-halo)"/>
@@ -118,14 +118,14 @@
 <tspan x="180" y="434.10" xml:space="preserve">:@@%%%%%%%%%%%%%%%@@@%%%%%%%%%%%%%%%%%#%%%%%%%%#%%%%%%%%%%%%%@@@@@@@@@@%#%%%@@@@@@@:</tspan></text></g>
 <g clip-path="url(#system-line-0)"><text x="72" y="520" class="system-head"><tspan fill="#6D28D9">@bangpii</tspan><tspan fill="#64748B"> ------------------------------------------</tspan></text></g>
 <g clip-path="url(#system-line-1)"><text x="72" y="541" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Subject</tspan><tspan fill="#64748B">: ....... </tspan><tspan fill="#172554">Baihaqie Ar Rafi</tspan></text></g>
-<g clip-path="url(#system-line-2)"><text x="72" y="562" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Role</tspan><tspan fill="#64748B">: .......... </tspan><tspan fill="#172554">Full Stack Developer &amp; Network Engineer</tspan></text></g>
+<g clip-path="url(#system-line-2)"><text x="72" y="562" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Role</tspan><tspan fill="#64748B">: .......... </tspan><tspan fill="#172554">Full Stack Web Developer</tspan></text></g>
 <g clip-path="url(#system-line-3)"><text x="72" y="583" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Affiliation</tspan><tspan fill="#64748B">: ... </tspan><tspan fill="#172554">Politeknik Negeri Medan</tspan></text></g>
 <g clip-path="url(#system-line-4)"><text x="72" y="604" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Base</tspan><tspan fill="#64748B">: .......... </tspan><tspan fill="#172554">Medan, Sumatra Utara</tspan></text></g>
-<g clip-path="url(#system-line-5)"><text x="72" y="625" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Status</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#172554">Full Stack / Frontend / Backend / SE</tspan></text></g>
-<g clip-path="url(#system-line-7)"><text x="72" y="667" class="system-section" fill="#047857">- STACK.NETWORK -----------------------------------</text></g>
-<g clip-path="url(#system-line-8)"><text x="72" y="688" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Primary</tspan><tspan fill="#64748B">: ....... </tspan><tspan fill="#172554">Full Stack Web Engineering</tspan></text></g>
-<g clip-path="url(#system-line-9)"><text x="72" y="709" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Direction</tspan><tspan fill="#64748B">: ..... </tspan><tspan fill="#172554">Web apps and network infrastructure</tspan></text></g>
-<g clip-path="url(#system-line-10)"><text x="72" y="730" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Themes</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#172554">Laravel / React / Linux / MikroTik</tspan></text></g>
+<g clip-path="url(#system-line-5)"><text x="72" y="625" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Status</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#172554">Frontend / Backend / Software Eng</tspan></text></g>
+<g clip-path="url(#system-line-7)"><text x="72" y="667" class="system-section" fill="#047857">- STACK.WEB -----------------------------------</text></g>
+<g clip-path="url(#system-line-8)"><text x="72" y="688" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Primary</tspan><tspan fill="#64748B">: ....... </tspan><tspan fill="#172554">Full Stack Web Development</tspan></text></g>
+<g clip-path="url(#system-line-9)"><text x="72" y="709" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Direction</tspan><tspan fill="#64748B">: ..... </tspan><tspan fill="#172554">Modern web apps, end to end</tspan></text></g>
+<g clip-path="url(#system-line-10)"><text x="72" y="730" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Themes</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#172554">React / Laravel / Node.js / MySQL</tspan></text></g>
 <g clip-path="url(#system-line-12)"><text x="72" y="772" class="system-section" fill="#047857">- BUILD.LOG -----------------------------------</text></g>
 <g clip-path="url(#system-line-13)"><text x="72" y="793" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Website Absensi</tspan><tspan fill="#64748B">: ... </tspan><tspan fill="#172554">Attendance system</tspan></text></g>
 <g clip-path="url(#system-line-14)"><text x="72" y="814" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">MathDrive</tspan><tspan fill="#64748B">: ..... </tspan><tspan fill="#172554">Learning platform</tspan></text></g>
