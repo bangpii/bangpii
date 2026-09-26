@@ -37,12 +37,12 @@ I am based in Medan, Indonesia, where I study at Politeknik Negeri Medan and hav
 
 | Project | Focus | Why it matters |
 | --- | --- | --- |
-| [**Website Absensi**](https://github.com/bangpii/website-absensi) | Attendance web application | A web-based attendance system that replaces manual paper logs with a searchable, role-scoped record. |
+| [**Website Absensi**](https://github.com/bangpii/WebsiteAbsensi) | Attendance web application | A web-based attendance system that replaces manual paper logs with a searchable, role-scoped record. |
 | [**MathDrive**](https://github.com/bangpii/mathdrive) | Math learning platform | An interactive platform for working through maths material, with progress tracked per learner. |
 | [**DonasiYuk**](https://github.com/bangpii/donasiyuk) | Donation platform | A donation platform that makes campaigns browsable and contributions trackable end to end. |
 | [**JasaHub**](https://github.com/bangpii/jasahub) | Freelance services hub | A marketplace-style hub connecting service providers with clients, from listings to request handling. |
-| [**Londrex**](https://github.com/bangpii/londrex) | Web application project | A full stack web project. Description pending. |
-| [**BangPii Wisata**](https://github.com/bangpii/bangpii-wisata) | Travel guide platform | A travel platform for publishing destination guides, photos, and practical visitor information. |
+| [**Londrex**](https://github.com/bangpii/Lodrex) | Laundry service management | A laundry service web app with public price lists, customer and service management, order tracking with receipt generation, and admin statistics. |
+| [**BangPii Wisata**](https://github.com/bangpii/Wisata) | Travel guide platform | A travel platform for publishing destination guides, photos, and practical visitor information. |
 
 ## Project Gallery
 
@@ -191,12 +191,8 @@ Supporting skills for the servers and networks these applications run on:
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bangpii&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangpii&layout=compact&hide_border=true&theme=radical" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bangpii&hide_border=true&theme=react" alt="Contribution graph" width="100%">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=bangpii&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bangpii&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
 </p>
 
 ---
