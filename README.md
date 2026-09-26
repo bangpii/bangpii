@@ -15,6 +15,10 @@
   <a href="mailto:baihaqiearrafi6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-baihaqiearrafi6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img alt="Full Stack Web Developer - React, Tailwind, Node.js, Laravel - based in Medan, Indonesia" src="./assets/ambient/typing.svg" width="560">
+</p>
+
 ## About Me
 
 I build web applications end to end, from the interface the user touches to the API, database, and server behind it. Most of my work is product shaped: a real problem, a working application, and a deployment that stays up.

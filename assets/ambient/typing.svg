@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 46" width="560" height="46" role="img" aria-label="Full Stack Web Developer. React, Tailwind, Node.js, Laravel. Based in Medan, Indonesia.">
+  <title>Full Stack Web Developer - React, Tailwind, Node.js, Laravel - Based in Medan, Indonesia</title>
+  <style>
+    .tw-line { animation-duration: 12s; animation-iteration-count: infinite; animation-timing-function: cubic-bezier(.4,0,.2,1); }
+    .tw-cursor { animation: tw-blink 1.05s steps(1, end) infinite; }
+    .tw-rule { animation: tw-rule 12s cubic-bezier(.4,0,.2,1) infinite; transform-box: fill-box; transform-origin: left center; }
+
+    .tw-1 { animation-name: tw-line-1; }
+    .tw-2 { animation-name: tw-line-2; }
+    .tw-3 { animation-name: tw-line-3; }
+
+    @keyframes tw-line-1 {
+      0%   { clip-path: inset(0 100% 0 0); opacity: 0; }
+      2%   { opacity: 1; }
+      20%  { clip-path: inset(0 0 0 0); }
+      34%  { opacity: 1; }
+      36%  { opacity: 0; }
+      100% { clip-path: inset(0 0 0 0); opacity: 0; }
+    }
+    @keyframes tw-line-2 {
+      0%, 34%   { clip-path: inset(0 100% 0 0); opacity: 0; }
+      37%       { opacity: 1; }
+      56%       { clip-path: inset(0 0 0 0); }
+      70%       { opacity: 1; }
+      73%, 100% { clip-path: inset(0 100% 0 0); opacity: 0; }
+    }
+    @keyframes tw-line-3 {
+      0%, 70%   { clip-path: inset(0 100% 0 0); opacity: 0; }
+      73%       { opacity: 1; }
+      92%       { clip-path: inset(0 0 0 0); }
+      99%, 100% { opacity: 0; }
+    }
+    @keyframes tw-blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes tw-rule  { 0% { transform: scaleX(0); } 26% { transform: scaleX(1); } 82% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .tw-line, .tw-cursor, .tw-rule { animation: none; }
+      .tw-2, .tw-3 { display: none; }
+    }
+  </style>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="24" fill="#006AFF">
+    <g class="tw-line tw-1">
+      <text x="4" y="27">Full Stack Web Developer</text>
+      <rect class="tw-cursor" x="350" y="7" width="11" height="23" fill="#7C3AED"/>
+    </g>
+    <g class="tw-line tw-2" style="opacity:0">
+      <text x="4" y="27">React · Tailwind · Node.js · Laravel</text>
+      <rect class="tw-cursor" x="523" y="7" width="11" height="23" fill="#7C3AED"/>
+    </g>
+    <g class="tw-line tw-3" style="opacity:0">
+      <text x="4" y="27">Based in Medan, Indonesia</text>
+      <rect class="tw-cursor" x="364" y="7" width="11" height="23" fill="#7C3AED"/>
+    </g>
+  </g>
+
+  <rect class="tw-rule" x="4" y="40" width="516" height="2" rx="1" fill="#7C3AED" opacity="0.7"/>
+</svg>
