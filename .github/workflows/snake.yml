@@ -1,0 +1,50 @@
+name: Contribution Snake
+
+on:
+  # regenerate the snake once a day so it follows the contribution grid
+  schedule:
+    - cron: "17 4 * * *"
+
+  # manual run from the Actions tab
+  workflow_dispatch:
+
+  # first run: triggered by the commit that adds this file
+  push:
+    paths:
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # colours follow the hero palette: cyan snake on dark, violet on light
+          outputs: |
+            assets/snake/snake-light.svg?palette=github-light&color_snake=#6D28D9&color_dots=#F1F5F9,#DDD6FE,#C4B5FD,#A78BFA,#7C3AED
+            assets/snake/snake-dark.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#0B1220,#123A4A,#164E63,#0E7490,#7C3AED
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/snake
+          if git diff --cached --quiet; then
+            echo "snake is already up to date"
+          else
+            git commit -m "chore: regenerate contribution snake"
+            git push
+          fi

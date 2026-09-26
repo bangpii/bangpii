@@ -201,6 +201,18 @@ Supporting skills for the servers and networks these applications run on:
 
 ---
 
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake/snake-light.svg">
+    <img alt="Snake game eating my GitHub contribution graph" src="./assets/snake/snake-light.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 <p align="center">
   Building web systems and the networks that carry them.
 </p>
