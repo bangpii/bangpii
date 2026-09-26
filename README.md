@@ -53,84 +53,84 @@ I am based in Medan, Indonesia, where I study at Politeknik Negeri Medan and hav
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://adminabsensismkn1duakoto.lmssekolah.com" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/website-absensi.webp" alt="Website Absensi" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://adminabsensismkn1duakoto.lmssekolah.com" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/website-absensi.webp" alt="Website Absensi" width="100%"></a>
   <br>
   <sub><a href="https://adminabsensismkn1duakoto.lmssekolah.com" target="_blank" rel="noopener noreferrer"><b>Website Absensi</b></a> &mdash; Attendance web application</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://math-drive-tawny.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/mathdrive.webp" alt="MathDrive" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://math-drive-tawny.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/mathdrive.webp" alt="MathDrive" width="100%"></a>
   <br>
   <sub><a href="https://math-drive-tawny.vercel.app" target="_blank" rel="noopener noreferrer"><b>MathDrive</b></a> &mdash; Math learning platform</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://donasi-yuk.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/donasiyuk.webp" alt="DonasiYuk" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://donasi-yuk.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/donasiyuk.webp" alt="DonasiYuk" width="100%"></a>
   <br>
   <sub><a href="https://donasi-yuk.vercel.app" target="_blank" rel="noopener noreferrer"><b>DonasiYuk</b></a> &mdash; Donation platform</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://jasa-hub-tau.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/jasahub.webp" alt="JasaHub" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://jasa-hub-tau.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/jasahub.webp" alt="JasaHub" width="100%"></a>
   <br>
   <sub><a href="https://jasa-hub-tau.vercel.app" target="_blank" rel="noopener noreferrer"><b>JasaHub</b></a> &mdash; Freelance services hub</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="./assets/projects/londrex.webp" alt="Londrex" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+  <img src="./assets/projects/londrex.webp" alt="Londrex" width="100%">
   <br>
   <sub><b>Londrex</b> &mdash; Web application project</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://wisata-smoky.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/bangpii-wisata.webp" alt="BangPii Wisata" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://wisata-smoky.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/bangpii-wisata.webp" alt="BangPii Wisata" width="100%"></a>
   <br>
   <sub><a href="https://wisata-smoky.vercel.app" target="_blank" rel="noopener noreferrer"><b>BangPii Wisata</b></a> &mdash; Travel guide platform</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://bang-pii-news.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/bangpiinews.webp" alt="BangPii News" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://bang-pii-news.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/bangpiinews.webp" alt="BangPii News" width="100%"></a>
   <br>
   <sub><a href="https://bang-pii-news.vercel.app" target="_blank" rel="noopener noreferrer"><b>BangPii News</b></a> &mdash; News portal</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://raharpa-shopp.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/thrift-online.webp" alt="Thrift Online" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://raharpa-shopp.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/thrift-online.webp" alt="Thrift Online" width="100%"></a>
   <br>
   <sub><a href="https://raharpa-shopp.vercel.app" target="_blank" rel="noopener noreferrer"><b>Thrift Online</b></a> &mdash; Online storefront</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://pernikahan-three.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/pernikahan.webp" alt="Pernikahan" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://pernikahan-three.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/pernikahan.webp" alt="Pernikahan" width="100%"></a>
   <br>
   <sub><a href="https://pernikahan-three.vercel.app" target="_blank" rel="noopener noreferrer"><b>Pernikahan</b></a> &mdash; Wedding event platform</sub>
 </td>
 <td width="50%" valign="top">
-  <img src="./assets/projects/futsal-terminal.webp" alt="Futsal Terminal" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+  <img src="./assets/projects/futsal-terminal.webp" alt="Futsal Terminal" width="100%">
   <br>
   <sub><b>Futsal Terminal</b> &mdash; Futsal match terminal</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://bangpii-pdf.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/bangpii-pdf.webp" alt="BangPii PDF" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://bangpii-pdf.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/bangpii-pdf.webp" alt="BangPii PDF" width="100%"></a>
   <br>
   <sub><a href="https://bangpii-pdf.vercel.app" target="_blank" rel="noopener noreferrer"><b>BangPii PDF</b></a> &mdash; PDF utility tool</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://bangpii-cerita.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/bangpiicerita.webp" alt="BangPii Cerita" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://bangpii-cerita.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/bangpiicerita.webp" alt="BangPii Cerita" width="100%"></a>
   <br>
   <sub><a href="https://bangpii-cerita.vercel.app" target="_blank" rel="noopener noreferrer"><b>BangPii Cerita</b></a> &mdash; Story platform</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://react-vault-sigma.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/react-dokumentasi.webp" alt="React Dokumentasi" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://react-vault-sigma.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/react-dokumentasi.webp" alt="React Dokumentasi" width="100%"></a>
   <br>
   <sub><a href="https://react-vault-sigma.vercel.app" target="_blank" rel="noopener noreferrer"><b>React Dokumentasi</b></a> &mdash; React documentation site</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://make-over-one.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/makeover.webp" alt="MakeOver" width="100%" style="border:1px solid rgba(127,127,127,0.28);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08);"></a>
+  <a href="https://make-over-one.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/makeover.webp" alt="MakeOver" width="100%"></a>
   <br>
   <sub><a href="https://make-over-one.vercel.app" target="_blank" rel="noopener noreferrer"><b>MakeOver</b></a> &mdash; Web application project</sub>
 </td>
