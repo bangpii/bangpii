@@ -158,14 +158,25 @@ I care about the whole path a request takes. On the front, a responsive interfac
 
 Supporting skills for the servers and networks these applications run on:
 
-- Linux server installation and administration
-- Nginx and Apache web server configuration
-- MySQL and MariaDB administration
-- LAN topology and structured cabling
-- VLAN segmentation and switching
-- IP addressing, subnetting, and DHCP server
-- MikroTik configuration through Winbox
-- Router, firewall, and hotspot setup
+<img alt="Network topology: server rack, switch, router, firewall, and upstream link" src="./assets/ambient/infra-band.svg" width="100%">
+
+<table>
+<tr>
+<td width="6" valign="top"><img alt="" src="./assets/ambient/infra-rail.svg" width="6" height="200"></td>
+<td valign="top">
+<ul>
+<li>Linux server installation and administration</li>
+<li>Nginx and Apache web server configuration</li>
+<li>MySQL and MariaDB administration</li>
+<li>LAN topology and structured cabling</li>
+<li>VLAN segmentation and switching</li>
+<li>IP addressing, subnetting, and DHCP server</li>
+<li>MikroTik configuration through Winbox</li>
+<li>Router, firewall, and hotspot setup</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
