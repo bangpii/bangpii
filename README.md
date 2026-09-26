@@ -19,6 +19,10 @@
   <img alt="Full Stack Web Developer - React, Tailwind, Node.js, Laravel - based in Medan, Indonesia" src="./assets/ambient/typing.svg" width="560">
 </p>
 
+<p align="center">
+  <img alt="Open to collaboration" src="./assets/ambient/status-pill.svg" width="212">
+</p>
+
 ## About Me
 
 I build web applications end to end, from the interface the user touches to the API, database, and server behind it. Most of my work is product shaped: a real problem, a working application, and a deployment that stays up.
@@ -26,6 +30,10 @@ I build web applications end to end, from the interface the user touches to the 
 I work mostly with JavaScript and PHP, building interfaces in React and Tailwind, services in Node.js, Express, and Laravel, and shipping on shared hosting or a VPS.
 
 I am based in Medan, Indonesia, where I study at Politeknik Negeri Medan and have interned with SAE DIGITAL Academy. I am open to collaboration on web development and information systems work.
+
+<p align="center">
+  <img alt="" src="./assets/ambient/divider.svg" width="100%">
+</p>
 
 ## Current Focus
 
@@ -37,6 +45,10 @@ I am based in Medan, Indonesia, where I study at Politeknik Negeri Medan and hav
 | **Server and Deployment** | Linux servers, Nginx and Apache, and deploying to shared hosting or a VPS. |
 | **Network Infrastructure** | Supporting skill: LAN topology, VLAN, subnetting, DHCP, MikroTik, firewall, and hotspot. |
 
+<p align="center">
+  <img alt="" src="./assets/ambient/divider.svg" width="100%">
+</p>
+
 ## Featured Work
 
 | Project | Focus | Why it matters |
@@ -47,6 +59,10 @@ I am based in Medan, Indonesia, where I study at Politeknik Negeri Medan and hav
 | [**JasaHub**](https://github.com/bangpii/jasahub) | Freelance services hub | A marketplace-style hub connecting service providers with clients, from listings to request handling. |
 | [**Londrex**](https://github.com/bangpii/Lodrex) | Laundry service management | A laundry service web app with public price lists, customer and service management, order tracking with receipt generation, and admin statistics. |
 | [**BangPii Wisata**](https://github.com/bangpii/Wisata) | Travel guide platform | A travel platform for publishing destination guides, photos, and practical visitor information. |
+
+<p align="center">
+  <img alt="" src="./assets/ambient/divider.svg" width="100%">
+</p>
 
 ## Project Gallery
 
@@ -137,6 +153,10 @@ I am based in Medan, Indonesia, where I study at Politeknik Negeri Medan and hav
 </tr>
 </table>
 
+<p align="center">
+  <img alt="" src="./assets/ambient/divider.svg" width="100%">
+</p>
+
 ## How I Build
 
 I care about the whole path a request takes. On the front, a responsive interface that stays fast and readable on a phone. In the middle, a clean API and a database schema that will not fight me six months later. On the back, a server that can be deployed and debugged without drama. I also set up the network these applications run on, so I can trace a problem end to end instead of guessing where it lives.
@@ -178,6 +198,10 @@ Supporting skills for the servers and networks these applications run on:
 </tr>
 </table>
 
+<p align="center">
+  <img alt="" src="./assets/ambient/divider.svg" width="100%">
+</p>
+
 ## Tech Stack
 
 `JavaScript` · `TypeScript` · `React` · `Tailwind CSS` · `Vite` · `Node.js` · `Express.js` · `PHP` · `Laravel` · `MySQL` · `MongoDB` · `PostgreSQL` · `HTML5` · `CSS3` · `Git` · `Docker` · `Linux` · `MikroTik`
@@ -211,6 +235,10 @@ Supporting skills for the servers and networks these applications run on:
 </p>
 
 ---
+
+<p align="center">
+  <img alt="" src="./assets/ambient/divider.svg" width="100%">
+</p>
 
 ## Contribution Snake
 
