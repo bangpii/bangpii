@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-label="A reticle settling on a single point">
+  <defs>
+    <linearGradient id="bg-focus" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1020"/>
+      <stop offset="0.45" stop-color="#0E1730"/>
+      <stop offset="0.78" stop-color="#16143A"/>
+      <stop offset="1" stop-color="#0B1226"/>
+    </linearGradient>
+    <linearGradient id="wire-focus" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="edge-focus" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.5"/>
+      <stop offset="0.5" stop-color="#6366F1" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.5"/>
+    </linearGradient>
+    <radialGradient id="glow-focus" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.28"/>
+      <stop offset="0.6" stop-color="#7C3AED" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid-focus" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0v30" fill="none" stroke="#93A7CC" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip-focus"><rect width="1200" height="96" rx="14"/></clipPath>
+    <filter id="soft-focus" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3.2"/></filter>
+  </defs>
+  <style>
+    .breathe { animation: sf-breathe 9s ease-in-out infinite; }
+    .pulse { animation: sf-pulse 7s linear infinite; }
+    @keyframes sf-breathe { 0%, 100% { opacity: 0.32; } 50% { opacity: 0.72; } }
+    @keyframes sf-pulse { to { stroke-dashoffset: -240; } }
+    @media (prefers-reduced-motion: reduce) { .breathe, .pulse { animation: none; } }
+  </style>
+  <g clip-path="url(#clip-focus)">
+    <rect width="1200" height="96" fill="url(#bg-focus)"/>
+    <rect width="1200" height="96" fill="url(#grid-focus)"/>
+    <ellipse class="breathe" cx="600" cy="48" rx="440" ry="48" fill="url(#glow-focus)"/>
+    <g>
+      <circle cx="600" cy="48" r="30" fill="none" stroke="url(#wire-focus)" stroke-opacity="0.5" stroke-width="1.4"/>
+      <circle cx="600" cy="48" r="21" fill="none" stroke="url(#wire-focus)" stroke-opacity="0.38" stroke-width="1.4"/>
+      <circle cx="600" cy="48" r="12" fill="none" stroke="url(#wire-focus)" stroke-opacity="0.26" stroke-width="1.4"/>
+      <g stroke="#8FA3C8" stroke-opacity="0.3" stroke-width="1.2" stroke-linecap="round">
+        <path d="M556 48h20M624 48h20M600 4v20M600 72v20"/>
+      </g>
+      <g fill="#8FA3C8" fill-opacity="0.35">
+        <circle cx="548" cy="48" r="1.8"/><circle cx="652" cy="48" r="1.8"/>
+        <circle cx="600" cy="-4" r="1.8"/><circle cx="600" cy="100" r="1.8"/>
+      </g>
+      <circle class="breathe" cx="600" cy="48" r="7" fill="#7DD3FC" filter="url(#soft-focus)"/>
+      <circle cx="600" cy="48" r="3" fill="#7DD3FC"/>
+      <g stroke="url(#wire-focus)" stroke-opacity="0.22" stroke-width="1.2" stroke-linecap="round">
+        <path d="M180 48h70M950 48h70"/>
+      </g>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="95" rx="14" fill="none" stroke="url(#edge-focus)" stroke-width="1"/>
+</svg>

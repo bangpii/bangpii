@@ -40,20 +40,22 @@
 <p align="center">
   <img alt="Open to collaboration" src="./assets/ambient/status-pill.svg" width="212">
 </p>
-
 ## About Me
+
+<p align="center">
+  <img alt="The whole path: interface, API, and data" src="./assets/ambient/band-about.svg" width="100%">
+</p>
 
 I build web applications end to end, from the interface the user touches to the API, database, and server behind it. Most of my work is product shaped: a real problem, a working application, and a deployment that stays up.
 
 I work mostly with JavaScript and PHP, building interfaces in React and Tailwind, services in Node.js, Express, and Laravel, and shipping on shared hosting or a VPS.
 
 I am based in Medan, Indonesia, where I study at Politeknik Negeri Medan and have interned with SAE DIGITAL Academy. I am open to collaboration on web development and information systems work.
+## Current Focus
 
 <p align="center">
-  <img alt="" src="./assets/ambient/divider.svg" width="100%">
+  <img alt="A reticle settling on a single point" src="./assets/ambient/band-focus.svg" width="100%">
 </p>
-
-## Current Focus
 
 | Area | What I am exploring |
 | --- | --- |
@@ -62,12 +64,11 @@ I am based in Medan, Indonesia, where I study at Politeknik Negeri Medan and hav
 | **Backend and Database** | REST APIs and business logic with Node.js, Express, Laravel, MySQL, and MongoDB. |
 | **Server and Deployment** | Linux servers, Nginx and Apache, and deploying to shared hosting or a VPS. |
 | **Network Infrastructure** | Supporting skill: LAN topology, VLAN, subnetting, DHCP, MikroTik, firewall, and hotspot. |
+## Featured Work
 
 <p align="center">
-  <img alt="" src="./assets/ambient/divider.svg" width="100%">
+  <img alt="Three selected project cards" src="./assets/ambient/band-work.svg" width="100%">
 </p>
-
-## Featured Work
 
 | Project | Focus | Why it matters |
 | --- | --- | --- |
@@ -77,12 +78,11 @@ I am based in Medan, Indonesia, where I study at Politeknik Negeri Medan and hav
 | [**JasaHub**](https://github.com/bangpii/jasahub) | Freelance services hub | A marketplace-style hub connecting service providers with clients, from listings to request handling. |
 | [**Londrex**](https://github.com/bangpii/Lodrex) | Laundry service management | A laundry service web app with public price lists, customer and service management, order tracking with receipt generation, and admin statistics. |
 | [**BangPii Wisata**](https://github.com/bangpii/Wisata) | Travel guide platform | A travel platform for publishing destination guides, photos, and practical visitor information. |
+## Project Gallery
 
 <p align="center">
-  <img alt="" src="./assets/ambient/divider.svg" width="100%">
+  <img alt="A contact sheet of project screenshots" src="./assets/ambient/band-gallery.svg" width="100%">
 </p>
-
-## Project Gallery
 
 <table>
 <tr>
@@ -170,12 +170,11 @@ I am based in Medan, Indonesia, where I study at Politeknik Negeri Medan and hav
 </td>
 </tr>
 </table>
+## How I Build
 
 <p align="center">
-  <img alt="" src="./assets/ambient/divider.svg" width="100%">
+  <img alt="A request travelling the full build path" src="./assets/ambient/band-build.svg" width="100%">
 </p>
-
-## How I Build
 
 I care about the whole path a request takes. On the front, a responsive interface that stays fast and readable on a phone. In the middle, a clean API and a database schema that will not fight me six months later. On the back, a server that can be deployed and debugged without drama. I also set up the network these applications run on, so I can trace a problem end to end instead of guessing where it lives.
 
