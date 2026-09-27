@@ -10,9 +10,27 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bangpii"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-bangpii-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.instagram.com/bangpiiii/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40bangpiii-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:baihaqiearrafi6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-baihaqiearrafi6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/bangpii">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/ambient/badge-github-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/ambient/badge-github-light.svg">
+      <img alt="GitHub bangpii" src="./assets/ambient/badge-github-dark.svg" width="180" height="40">
+    </picture>
+  </a>
+  <a href="https://www.instagram.com/bangpiiii/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/ambient/badge-instagram-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/ambient/badge-instagram-light.svg">
+      <img alt="Instagram @bangpiii" src="./assets/ambient/badge-instagram-dark.svg" width="210" height="40">
+    </picture>
+  </a>
+  <a href="mailto:baihaqiearrafi6@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/ambient/badge-email-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/ambient/badge-email-light.svg">
+      <img alt="Email baihaqiearrafi6@gmail.com" src="./assets/ambient/badge-email-dark.svg" width="264" height="40">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
